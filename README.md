@@ -1,7 +1,7 @@
 # INET
 
 This is a project from the course DD1362 _Programmeringsparadigm_ at KTH  
-This project was done in collaboration with ![Zino Kader](https://github.com/ZinoKader)
+This project was done in collaboration with [Zino Kader](https://github.com/ZinoKader)
 
 To create a bundled, runnable JAR in IntelliJ IDEA:
 
